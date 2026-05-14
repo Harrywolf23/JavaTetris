@@ -2,6 +2,13 @@
 
 JavaTetris is a Java Swing prototype of the classic Tetris game. The project explores grid-based rendering, keyboard input, timed gravity, board state, and tetromino movement in a small desktop application.
 
+## What This Demonstrates
+
+- Object-oriented Java structure split across game window, board logic, and shape management.
+- Event-driven desktop UI work with Java Swing and keyboard input.
+- State management for a grid-based game board, movement, gravity timing, and collision checks.
+- Debugging and incremental development in a partially complete application.
+
 ## Status
 
 This repository is a work in progress. The core Swing window, board rendering, gravity timer, and basic movement controls are in place. Piece definitions, rotations, row clearing, scoring, and full game-over handling are planned next steps.

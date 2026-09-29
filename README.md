@@ -61,4 +61,4 @@ java Game
 
 ## License
 
-No license file is currently included.
+[MIT](LICENSE)
